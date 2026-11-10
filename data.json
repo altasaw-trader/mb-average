@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-07T16:44:31+00:00",
+  "updated_utc": "2026-11-10T02:17:18+00:00",
   "source": "Yahoo Finance via yfinance (unofficial)",
   "basis": "3y rolling daily, completed candles, 0.00001 non-JPY / 0.001 JPY point",
   "pairs": {
@@ -38,7 +38,7 @@
           "points": 1550
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "AUDCHF": {
@@ -76,7 +76,7 @@
           "points": 1899
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "AUDJPY": {
@@ -114,7 +114,7 @@
           "points": 3387
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "AUDNZD": {
@@ -152,7 +152,7 @@
           "points": 1826
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "AUDUSD": {
@@ -190,7 +190,7 @@
           "points": 1550
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "CADCHF": {
@@ -228,7 +228,7 @@
           "points": 1328
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "CADJPY": {
@@ -266,7 +266,7 @@
           "points": 3443
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "CHFJPY": {
@@ -304,7 +304,7 @@
           "points": 4592
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURAUD": {
@@ -342,7 +342,7 @@
           "points": 3700
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURCAD": {
@@ -380,7 +380,7 @@
           "points": 2284
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURCHF": {
@@ -418,7 +418,7 @@
           "points": 1536
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURGBP": {
@@ -456,7 +456,7 @@
           "points": 1054
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURJPY": {
@@ -494,7 +494,7 @@
           "points": 4756
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURNZD": {
@@ -532,7 +532,7 @@
           "points": 3336
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURUSD": {
@@ -570,7 +570,7 @@
           "points": 1883
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPAUD": {
@@ -608,7 +608,7 @@
           "points": 3914
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPCAD": {
@@ -646,7 +646,7 @@
           "points": 2510
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPCHF": {
@@ -684,7 +684,7 @@
           "points": 2063
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPJPY": {
@@ -722,7 +722,7 @@
           "points": 5024
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPNZD": {
@@ -760,7 +760,7 @@
           "points": 4033
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPUSD": {
@@ -798,7 +798,7 @@
           "points": 2074
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "NZDCAD": {
@@ -836,7 +836,7 @@
           "points": 1365
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "NZDCHF": {
@@ -874,7 +874,7 @@
           "points": 1526
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "NZDJPY": {
@@ -912,7 +912,7 @@
           "points": 3004
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "NZDUSD": {
@@ -950,7 +950,7 @@
           "points": 1236
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "USDCAD": {
@@ -988,7 +988,7 @@
           "points": 1960
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "USDCHF": {
@@ -1026,7 +1026,7 @@
           "points": 1554
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "USDJPY": {
@@ -1064,7 +1064,7 @@
           "points": 4258
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     }
   }
