@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-14T02:14:53+00:00",
+  "updated_utc": "2026-11-17T02:25:23+00:00",
   "source": "Yahoo Finance via yfinance (unofficial)",
   "basis": "3y rolling daily, completed candles, 0.00001 non-JPY / 0.001 JPY point",
   "pairs": {
@@ -38,7 +38,7 @@
           "points": 1550
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "AUDCHF": {
@@ -76,7 +76,7 @@
           "points": 1899
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "AUDJPY": {
@@ -114,7 +114,7 @@
           "points": 3387
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "AUDNZD": {
@@ -152,7 +152,7 @@
           "points": 1826
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "AUDUSD": {
@@ -190,7 +190,7 @@
           "points": 1550
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "CADCHF": {
@@ -228,7 +228,7 @@
           "points": 1328
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "CADJPY": {
@@ -266,7 +266,7 @@
           "points": 3443
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "CHFJPY": {
@@ -304,7 +304,7 @@
           "points": 4592
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURAUD": {
@@ -342,7 +342,7 @@
           "points": 3700
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURCAD": {
@@ -380,7 +380,7 @@
           "points": 2284
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURCHF": {
@@ -418,7 +418,7 @@
           "points": 1536
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURGBP": {
@@ -456,7 +456,7 @@
           "points": 1054
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURJPY": {
@@ -494,7 +494,7 @@
           "points": 4756
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURNZD": {
@@ -532,7 +532,7 @@
           "points": 3336
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "EURUSD": {
@@ -570,7 +570,7 @@
           "points": 1883
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPAUD": {
@@ -608,7 +608,7 @@
           "points": 3914
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPCAD": {
@@ -646,7 +646,7 @@
           "points": 2510
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPCHF": {
@@ -684,7 +684,7 @@
           "points": 2063
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPJPY": {
@@ -722,7 +722,7 @@
           "points": 5024
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPNZD": {
@@ -760,24 +760,18 @@
           "points": 4033
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "GBPUSD": {
-      "average": 2520.6,
-      "suggested": 1260.3,
+      "average": 2489.8,
+      "suggested": 1244.9,
       "top5": [
         {
           "date": "2024-12-25",
           "high": 1.28131,
           "low": 1.241,
           "points": 4031
-        },
-        {
-          "date": "2023-11-14",
-          "high": 1.2488,
-          "low": 1.22654,
-          "points": 2226
         },
         {
           "date": "2026-03-23",
@@ -796,9 +790,15 @@
           "high": 1.30438,
           "low": 1.28363,
           "points": 2074
+        },
+        {
+          "date": "2025-09-02",
+          "high": 1.35488,
+          "low": 1.33417,
+          "points": 2072
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "NZDCAD": {
@@ -836,7 +836,7 @@
           "points": 1365
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "NZDCHF": {
@@ -874,7 +874,7 @@
           "points": 1526
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "NZDJPY": {
@@ -912,12 +912,12 @@
           "points": 3004
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "NZDUSD": {
-      "average": 2218.2,
-      "suggested": 1109.1,
+      "average": 2216.6,
+      "suggested": 1108.3,
       "top5": [
         {
           "date": "2023-12-25",
@@ -944,13 +944,13 @@
           "points": 1298
         },
         {
-          "date": "2023-11-14",
-          "high": 0.59883,
-          "low": 0.58647,
-          "points": 1236
+          "date": "2025-04-10",
+          "high": 0.57523,
+          "low": 0.56295,
+          "points": 1228
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "USDCAD": {
@@ -988,7 +988,7 @@
           "points": 1960
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "USDCHF": {
@@ -1026,7 +1026,7 @@
           "points": 1554
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     },
     "USDJPY": {
@@ -1064,7 +1064,7 @@
           "points": 4258
         }
       ],
-      "count": 780,
+      "count": 777,
       "status": "ok"
     }
   }
